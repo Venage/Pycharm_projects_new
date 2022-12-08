@@ -1,0 +1,1 @@
+text_pyt = "C:/PyProjects/poject_1/test/"

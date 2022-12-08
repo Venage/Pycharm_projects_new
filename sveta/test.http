@@ -1,0 +1,4 @@
+curl --location --request POST 'https://mpstats.io/api/wb/get/items/batch' \
+--header 'X-Mpstats-TOKEN: 62823e9e07c5a9.79473655475660ac88bac1123b10c5693db44735' \
+--header 'Content-Type: application/json' \
+--data-raw '{"ids":[23162292]}'
